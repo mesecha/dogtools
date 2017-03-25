@@ -142,3 +142,16 @@ div.footer_dog {
 .center li a:hover {
 	color: red;
 }
+div.menu_phone {
+	font-size: 33px;
+	margin-right: 200px; 
+	float: right;
+	padding-top: 55px;
+	text-align: center; 
+}
+.phone h3 {
+}
+a.phone {
+	color: #24242a;
+	text-decoration: none;
+}
